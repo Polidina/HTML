@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Titulo página</title>
+</head>
+<body>
+  <h1>TITULO PRINCIPAL</h1>
+  <p>Texto en página</p>
+</body>
+</html>
